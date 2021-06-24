@@ -10,7 +10,7 @@
 #define TOPIC_SUBSCRIBE "/autodomo/UserXXXXXXXX/01AAXXXXXXXX/light/value"    //Put here the MQTT topic of receiving Autodomo Server information
 #define TOPIC_PUBLISH   "/autodomo/UserXXXXXXXX/01AAXXXXXXXX/light/state"    //Put here the MQTT Topic of sending information to the Autodomo Server
 
-#define ID_MQTT  "01AA49F41D92"     //MQTT ID For identification (Required))
+#define ID_MQTT  "01AAXXXXXXXX"     //MQTT ID For identification (Required))
 #define Relay   5                   //Relay output change according to your board
  
 // WIFI
